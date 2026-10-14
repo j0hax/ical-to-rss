@@ -1,0 +1,10 @@
+{
+  "name": "selfhosted/ical-to-rss",
+  "description": "Aggregate multiple iCalendar/ICS feeds into one RSS 2.0 feed",
+  "type": "project",
+  "require": {
+    "php": ">=8.1",
+    "ext-dom": "*",
+    "johngrogg/ics-parser": "^3.0"
+  }
+}
